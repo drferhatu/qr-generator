@@ -2,8 +2,6 @@
 
 A simple, elegant QR code generator built with React, TypeScript, and Tailwind CSS.
 
-![QR Code Generator Screenshot](https://pasteboard.co/pVk1puiUGaNV.png)
-
 ## Live Demo
 
 **Visit the live application: [https://drfu-qr-generator.netlify.app/](https://drfu-qr-generator.netlify.app/)**
