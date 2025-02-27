@@ -115,10 +115,12 @@ Some ideas for extending the application:
 
 MIT
 
-## Assoc. Prof. Ferhat Ucar
+## Acknowledgements
 
 
 - [qrcode.react](https://github.com/zpao/qrcode.react) for the QR code generation
 - [Lucide React](https://lucide.dev/) for the beautiful icons
 - [Tailwind CSS](https://tailwindcss.com/) for the styling
 - [Vite](https://vitejs.dev/) for the build tooling
+
+## Assoc. Prof. Ferhat Ucar
