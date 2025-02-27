@@ -115,7 +115,8 @@ Some ideas for extending the application:
 
 MIT
 
-## Acknowledgments
+## Assoc. Prof. Ferhat Ucar
+
 
 - [qrcode.react](https://github.com/zpao/qrcode.react) for the QR code generation
 - [Lucide React](https://lucide.dev/) for the beautiful icons
