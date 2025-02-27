@@ -2,7 +2,7 @@
 
 A simple, elegant QR code generator built with React, TypeScript, and Tailwind CSS.
 
-![QR Code Generator Screenshot](https://images.unsplash.com/photo-1622676666769-1a0fab2ed1a4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![QR Code Generator Screenshot](https://pasteboard.co/pVk1puiUGaNV.png)
 
 ## Live Demo
 
