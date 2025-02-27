@@ -97,6 +97,9 @@ function App() {
         <div className="mt-6 text-center text-xs text-gray-500">
           Tip: You can right-click on the QR code to save it as an image
         </div>
+        <div className="mt-2 text-center text-xs text-gray-500 font-semibold">
+        Assoc. Prof. Ferhat Ucar
+        </div>
       </div>
     </div>
   );
